@@ -1,0 +1,13 @@
+*.class
+*.log
+.idea/
+*target*
+dist
+.DS_Store
+/bin/
+.classpath
+.settings
+*egg-info
+venv
+*__pycache__
+data
